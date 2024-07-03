@@ -1,0 +1,23 @@
+# Node modules
+/node_modules
+
+# Cypress specific files/folders
+/cypress/videos/
+/cypress/screenshots/
+/cypress/fixtures/
+
+# Cypress generated files
+/cypress/results/
+/cypress/logs/
+
+# Ignore Cypress binary cache
+/.cache/
+
+# Ignore Cypress configuration file
+/cypress.json
+
+# Ignore Cypress plugins file
+/cypress/plugins/index.js
+
+# Ignore Cypress support files
+/cypress/support/index.js
